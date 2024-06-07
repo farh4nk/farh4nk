@@ -3,11 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - WIP
+  - <a href="https://github.com/farh4nk/Sorting_Algos">Sorting Algorithms</a>
 - <b>Web Dev (HTML, CSS, JS, Django, etc.)</b>
-  - WIP
+  - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
+  - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
 - <b>Python</b>
-  - WIP
+  - Scientific Graphing Calculator (WIP)
 
 <h2>Currently Working On...</h2>
 <ul>
