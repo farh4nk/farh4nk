@@ -9,12 +9,12 @@
   - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
   - <a href="https://github.com/farh4nk/Survey_Form">Food Survey</a>
 - <b>Python</b>
-  - Scientific Graphing Calculator (WIP)
+  - <a href="https://github.com/farh4nk/Scientific_Calculator">Scientific Calculator</a>
 
 <h2>Currently Working On...</h2>
 <ul>
 <li><b>Responsive Web Design |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
-<li><b>Scientific Graphing Calculator in Python</b></li>
+<li><b>Calorie Tracker</b></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
