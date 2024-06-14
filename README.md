@@ -14,7 +14,7 @@
 <h2>Currently Working On...</h2>
 <ul>
 <li><b>Responsive Web Design |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
-<li><b>Calorie Tracker</b></li>
+<li><b>Hangman Game</b></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
