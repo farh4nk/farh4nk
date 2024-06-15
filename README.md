@@ -10,6 +10,8 @@
   - <a href="https://github.com/farh4nk/Survey_Form">Food Survey</a>
 - <b>Python</b>
   - <a href="https://github.com/farh4nk/Scientific_Calculator">Scientific Calculator</a>
+  - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
+
 
 <h2>Currently Working On...</h2>
 <ul>
