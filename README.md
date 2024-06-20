@@ -22,6 +22,7 @@
 <h2> 🤳 Connect with me:</h2>
 <h5>Instagram: <a href="https://www.instagram.com/farhan.k.__/ ">@farhan.k.__</a></h5>
 <h5>Email: fk27179@gmail.com</h5>
+<h5>LinkedIn: <a href="https://www.linkedin.com/in/farhan-khan-b55b82313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"></a></h5>
 
 <!--
 
