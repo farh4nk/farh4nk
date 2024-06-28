@@ -15,8 +15,7 @@
 
 <h2>Currently Working On...</h2>
 <ul>
-<li><b>Responsive Web Design |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
-<li><b>Hangman Game</b></li>
+<li><b>Javascript Algorithms & Data Structures |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
