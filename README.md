@@ -16,6 +16,7 @@
 <h2>Currently Working On...</h2>
 <ul>
 <li><b>Javascript Algorithms & Data Structures |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
+<li><b>Journaling Web App</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
