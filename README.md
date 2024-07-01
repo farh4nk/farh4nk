@@ -7,6 +7,7 @@
 - <b>Web Dev</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
   - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
+  - <a href="https://github.com/farh4nk/Palindrome-Checker">Palindrome Checker</a>
 - <b>Python</b>
   - <a href="https://github.com/farh4nk/Scientific_Calculator">Scientific Calculator</a>
   - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
