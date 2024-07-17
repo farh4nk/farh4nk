@@ -4,7 +4,7 @@
 
 - <b>Java</b>
   - <a href="https://github.com/farh4nk/Sorting_Algos">Sorting Algorithms</a>
-- <b>Web Dev</b>
+- <b>HTML/CSS/Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
   - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
   - <a href="https://github.com/farh4nk/Palindrome-Checker">Palindrome Checker</a>
