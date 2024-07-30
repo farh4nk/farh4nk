@@ -9,6 +9,8 @@
   - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
   - <a href="https://github.com/farh4nk/Palindrome-Checker">Palindrome Checker</a>
   - <a href="https://github.com/farh4nk/Roman-Numeral-Converter">Roman Numeral Converter</a>
+  - <a href="https://github.com/farh4nk/Pokemon-Search">Pokemon Search App</a>
+
 - <b>Python</b>
   - <a href="https://github.com/farh4nk/Scientific_Calculator">Scientific Calculator</a>
   - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
@@ -16,7 +18,7 @@
 
 <h2>Currently Working On...</h2>
 <ul>
-<li><b>Javascript Algorithms & Data Structures |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
+<li><b>Front End Web Frameworks Certification |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
 <li><b>Journaling Web App</li>
 </ul>
 
