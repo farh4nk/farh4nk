@@ -20,6 +20,7 @@
 <ul>
 <li><b>Front End Web Frameworks Certification |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
 <li><b>Journaling Web App</li>
+<li><b>Learning Next.js</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
