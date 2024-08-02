@@ -3,22 +3,23 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - <a href="https://github.com/farh4nk/Sorting_Algos">Sorting Algorithms</a>
-- <b>HTML/CSS/Javascript</b>
+  - <a href="https://github.com/farh4nk/Sorting-Algos">Sorting Algorithms</a>
+- <b>Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
-  - <a href="https://github.com/farh4nk/Going_to_Boston">Going to Boston (Dice Game)</a>
+  - <a href="https://github.com/farh4nk/Going-to-Boston">Going to Boston (Dice Game)</a>
   - <a href="https://github.com/farh4nk/Palindrome-Checker">Palindrome Checker</a>
   - <a href="https://github.com/farh4nk/Roman-Numeral-Converter">Roman Numeral Converter</a>
   - <a href="https://github.com/farh4nk/Pokemon-Search">Pokemon Search App</a>
-
+- <b>Next.js</b>
+  - <a href="https://github.com/farh4nk/Inventory-Tracker">Inventory Tracker</a>
 - <b>Python</b>
-  - <a href="https://github.com/farh4nk/Scientific_Calculator">Scientific Calculator</a>
+  - <a href="https://github.com/farh4nk/Scientific-Calculator">Scientific Calculator</a>
   - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
 
 
 <h2>Currently Working On...</h2>
 <ul>
-<li><b>Front End Web Frameworks Certification |  </b><a href="https://www.freeCodeCamp.org">freeCodeCamp</a></li>
+<li><b>Front End Development Libraries Certification |  </b><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">freeCodeCamp</a></li>
 <li><b>Journaling Web App</li>
 <li><b>Learning Next.js</li>
 </ul>
