@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java</b>
+- <b>Java (DSA)</b>
   - <a href="https://github.com/farh4nk/Sorting-Algos">Sorting Algorithms</a>
 - <b>Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
