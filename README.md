@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - <a href="https://github.com/farh4nk/Sorting-Algos">Sorting Algorithms</a>
+  - <a href="https://github.com/farh4nk/dsas">All my Data Structures and Algortihms</a>
 - <b>Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
   - <a href="https://github.com/farh4nk/Going-to-Boston">Going to Boston (Dice Game)</a>
