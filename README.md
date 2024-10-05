@@ -20,8 +20,7 @@
 <h2>Currently Working On...</h2>
 <ul>
 <li><b>Front End Development Libraries Certification |  </b><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">freeCodeCamp</a></li>
-<li><b>Journaling Web App</li>
-<li><b>Learning Next.js</li>
+<li><b>Learning Data Structures</b></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
