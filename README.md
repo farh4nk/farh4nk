@@ -1,6 +1,6 @@
 <h1>Hi, I'm Farhan! <br/><a href="https://github.com/farh4nk">Programmer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
   - <a href="https://github.com/farh4nk/dsa">All my Data Structures and Algorithms</a>
@@ -20,7 +20,7 @@
 <h2>Currently Working On...</h2>
 <ul>
 <li><b>Front End Development Libraries Certification |  </b><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">freeCodeCamp</a></li>
-<li><b>Learning Data Structures</b></li>
+<li><b>CodePath - WEB102</b></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
