@@ -1,4 +1,4 @@
-<h1>Hi, I'm Farhan! <br/><a href="https://github.com/farh4nk">Programmer</a>
+<h1>Hi, I'm Farhan! <br/><a href="https://github.com/farh4nk">Problem Solver</a>
 
 <h2>👨‍💻 Projects:</h2>
 
