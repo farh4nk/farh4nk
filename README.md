@@ -6,12 +6,12 @@
   - <a href="https://github.com/farh4nk/dsa">All my Data Structures and Algorithms</a>
 - <b>Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
-  - <a href="https://github.com/farh4nk/Going-to-Boston">Going to Boston (Dice Game)</a>
-  - <a href="https://github.com/farh4nk/Palindrome-Checker">Palindrome Checker</a>
   - <a href="https://github.com/farh4nk/Roman-Numeral-Converter">Roman Numeral Converter</a>
   - <a href="https://github.com/farh4nk/Pokemon-Search">Pokemon Search App</a>
 - <b>Next.js</b>
   - <a href="https://github.com/farh4nk/Inventory-Tracker">Inventory Tracker</a>
+- <b>React.js</b>
+  - <a href="https://github.com/farh4nk/writing-helper-extension">Writing Helper Chrome Extensionr</a>
 - <b>Python</b>
   - <a href="https://github.com/farh4nk/Scientific-Calculator">Scientific Calculator</a>
   - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
@@ -19,7 +19,7 @@
 
 <h2>Currently Working On...</h2>
 <ul>
-<li><b>Front End Development Libraries Certification |  </b><a href="https://www.freecodecamp.org/learn/front-end-development-libraries/">freeCodeCamp</a></li>
+<li>Getting into AI/ML</li>
 <li><b>CodePath - WEB102</b></li>
 </ul>
 
