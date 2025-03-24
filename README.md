@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Structures and Algorithms</b>
-  - <a href="https://github.com/farh4nk/dsa">All my Data Structures and Algorithms</a>
+  - <a href="https://github.com/farh4nk/dsa">LeetCode Problems I've solved</a>
 - <b>Javascript</b>
   - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
   - <a href="https://github.com/farh4nk/Roman-Numeral-Converter">Roman Numeral Converter</a>
@@ -20,6 +20,7 @@
 
 <h2>Currently Working On...</h2>
 <ul>
+<li><b>Grinding LeetCode 💪</b></li>
 <li>Getting into AI/ML</li>
 <li><b>CodePath - WEB102</b></li>
 </ul>
