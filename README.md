@@ -22,7 +22,6 @@
 <ul>
 <li><b>Grinding LeetCode 💪</b></li>
 <li>Getting into AI/ML</li>
-<li><b>CodePath - WEB102</b></li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>
