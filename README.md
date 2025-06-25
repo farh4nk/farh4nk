@@ -6,6 +6,7 @@
   - <a href="https://github.com/farh4nk/dsa">LeetCode Problems I've solved</a>
 - <b>Next.js</b>
   - <a href="https://github.com/farh4nk/Inventory-Tracker">Inventory Tracker</a>
+  - <a href="https://github.com/news-outlet">News Outlet</a>
 - <b>React.js</b>
   - <a href="https://github.com/farh4nk/web102_final_project">PS4orum</a>
   - <a href="https://github.com/farh4nk/writing-helper-extension">Writing Helper Chrome Extension</a>
@@ -16,6 +17,8 @@
 
 <h2>Currently Working On...</h2>
 <ul>
+<li><b>Microblog</b></li>
+<li><b>News Outlet</b></li>
 <li><b>Grinding LeetCode 💪</b></li>
 <li>Getting into AI/ML</li>
 </ul>
