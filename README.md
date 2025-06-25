@@ -17,9 +17,9 @@
 
 <h2>Currently Working On...</h2>
 <ul>
-<li><b>Microblog</b></li>
-<li><b>News Outlet</b></li>
-<li><b>Grinding LeetCode 💪</b></li>
+<li>Microblog</li>
+<li>News Outlet</li>
+<li>Grinding LeetCode 💪</li>
 <li>Getting into AI/ML</li>
 </ul>
 
