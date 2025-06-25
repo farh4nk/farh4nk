@@ -11,11 +11,14 @@
 - <b>Next.js</b>
   - <a href="https://github.com/farh4nk/Inventory-Tracker">Inventory Tracker</a>
 - <b>React.js</b>
+- <a href="https://github.com/farh4nk/web102-final-project">PS4orum</a>
   - <a href="https://github.com/farh4nk/writing-helper-extension">Writing Helper Chrome Extension</a>
   - <a href="https://github.com/BYTE-Club-CCNY/Application-Response-Extension"> Application Response Extension</a>
 - <b>Python</b>
   - <a href="https://github.com/farh4nk/Scientific-Calculator">Scientific Calculator</a>
   - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
+- <b>Flask</b>
+- <a href="https://github.com/farh4nk/microblog">Microblog</a>
 
 
 <h2>Currently Working On...</h2>
