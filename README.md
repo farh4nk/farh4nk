@@ -4,19 +4,12 @@
 
 - <b>Data Structures and Algorithms</b>
   - <a href="https://github.com/farh4nk/dsa">LeetCode Problems I've solved</a>
-- <b>Javascript</b>
-  - <a href="https://github.com/farh4nk/Stock-Portfolio">Stock Portfolio</a>
-  - <a href="https://github.com/farh4nk/Roman-Numeral-Converter">Roman Numeral Converter</a>
-  - <a href="https://github.com/farh4nk/Pokemon-Search">Pokemon Search App</a>
 - <b>Next.js</b>
   - <a href="https://github.com/farh4nk/Inventory-Tracker">Inventory Tracker</a>
 - <b>React.js</b>
   - <a href="https://github.com/farh4nk/web102_final_project">PS4orum</a>
   - <a href="https://github.com/farh4nk/writing-helper-extension">Writing Helper Chrome Extension</a>
   - <a href="https://github.com/BYTE-Club-CCNY/Application-Response-Extension"> Application Response Extension</a>
-- <b>Python</b>
-  - <a href="https://github.com/farh4nk/Scientific-Calculator">Scientific Calculator</a>
-  - <a href="https://github.com/farh4nk/Hangman">Hangman</a>
 - <b>Flask</b>
   - <a href="https://github.com/farh4nk/microblog">Microblog</a>
 
