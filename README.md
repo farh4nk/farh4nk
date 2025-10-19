@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Farhan!<br>Problem Solver<br>👨‍💻 Projects:<br>Data Structures and Algorithms<br>LeetCode Problems I've solved<br>Next.js<br>Inventory Tracker<br>News Outlet<br>React.js<br>PS4orum<br>Writing Helper Chrome Extension<br>Application Response Extension<br>Flask<br>Microblog<br>Currently Working On...<br>Microblog<br>News Outlet<br>Grinding LeetCode 💪<br>Getting into AI/ML<br>🤳 Connect with me:<br>Instagram: @farhan.k.__<br>Email: farhank.dev@gmail.com<br>LinkedIn: Farhan Khan
+Hi, I'm Farhan!
+Connect with me:<br>Instagram: @farhan.k.__<br>Email: farhank.dev@gmail.com<br>LinkedIn: Farhan Khan
 
 
 ## 🌐 Socials:
