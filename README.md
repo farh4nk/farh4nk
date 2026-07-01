@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Farhan!
+I'm a SWE interested in AI, accessibility, and health-tech. Looking to have my own startup one day!
 Connect with me:<br>Instagram: @farhan.k.__<br>Email: farhank.dev@gmail.com<br>LinkedIn: Farhan Khan
 
 
